@@ -1,8 +1,19 @@
-.div "intro"{text-align: left;
-            font-style: normal;
+body {
+  background-color: orange;
+  color: purple;
+}
+
+div.intro {
+  text-align: left;
+  font-style: normal;
+  color: pink;
 }
 
 .author {
   font-style: italic;
+  color: green;
+}
 
+span.color  {
+  color: blue;
 }
