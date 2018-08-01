@@ -3,12 +3,15 @@ body {
   color: purple;
 }
 
-div.intro {
+div {
   text-align: left;
   font-style: normal;
   color: pink;
 }
 
+div.intro {
+  color: black;
+}
 .author {
   font-style: italic;
   color: green;
